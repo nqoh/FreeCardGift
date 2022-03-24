@@ -1,0 +1,96 @@
+body { 
+  background-color: #d19275;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           0px;
+}
+#myNicPanel{ width:590px}
+#myInstance1{font-size: 16px; padding: 3px; width: 590px; }
+
+#header > a > img{
+  background-color: #b05f3c;
+  margin:           10px;
+  height:           50px;
+  width:1200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top:	2px;
+  margin-bottom:	50px;
+}
+
+
+
+#main {
+  font-size:        105%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+
+}
+
+#sidebar > div {
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  background:       #eed5b7;
+  height: auto;
+}
+#sidebars{
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  background:       #eed5b7;
+  width: auto;
+}
+br {
+  line-height: 2.5em;
+  
+}
+
+#side{
+  font-size:        105%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  background:       #eed5b7; 
+}
+
+
+#footer {
+  background-color: #b05f3c;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px;
+  font-size:        90%;
+}
+
+h1 {
+	margin:0px;
+  color:            #954b4b;
+}
+
+h2 { font-size: 110%; }
+
+.slogan { color: #954b4b; }
+
+.beanheading {
+  text-align:       center;
+  line-height:      1.8em;
+}
+
+a:link {
+  color:            #b76666;
+  text-decoration:  none;
+  text-align:       right;
+}
+a:hover{color:red}
+a:visited {
+  text-decoration:  none;
+  border-bottom:    thin dotted #675c47;
+}
+#upload{
+  background:       #eed5b7;
+  font-size:        105%;
+  padding:          5px;
+  margin:           0px 10px 10px 10px;
+}
+#controls{
+	font-size:20px;
+}
